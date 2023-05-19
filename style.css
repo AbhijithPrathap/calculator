@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(27, 27, 27);
+}
+button{
+    height: 50px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left:opx;
+    border: 7px rgb(72, 68, 68) inset;
+    border-radius: 100%;
+    color: white;
+    background-color: rgba(240, 137, 41, 0.792);
+    font-size: 20px;
+}button:hover{
+    border: 7px  rgb(72, 68, 68) inset;
+   background-color: rgb(255, 20, 63); 
+}.option{
+    color: rgb(17, 13, 224);
+    
+}.option:hover{
+    border: 7px  rgb(72, 68, 68) inset;
+    background-color: rgb(234, 20, 34); 
+}.calc{
+    background-color: darkslategrey;
+    height: 500px;
+    border-radius: 50px;
+    padding-top: 10px;
+    width: 450px;
+    padding: 10px;
+    text-align: center;
+}
+
